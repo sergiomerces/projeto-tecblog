@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: normal 16px Arial, Verdana, sans-serif;
+    max-width: 100vw;
+    min-width: 320px;
+    background-color: #cccaca;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background-color: #ff8c00;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+article {
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+}
+
+aside {
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+}
